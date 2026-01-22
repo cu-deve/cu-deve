@@ -117,7 +117,7 @@ and real-world solutions.
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=cu-de1v&theme=github-dark&hide_border=true&radius=12" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=cu-deve&theme=github-dark&hide_border=true&radius=12" />
 </p>
 <!--```txt
 Analysis:
